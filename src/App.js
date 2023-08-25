@@ -5,7 +5,7 @@ import LoginScreen from './Pages/Login';
 function App() {
   var data = {
     name: 'Usama Zafar',
-    age: 24
+    age: 25
   }
   const data2 = 'Data 2'
   return (
